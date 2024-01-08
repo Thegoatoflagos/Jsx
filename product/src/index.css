@@ -1,0 +1,15 @@
+.product {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #d1c4c4;
+  width: 35%;
+  border: 3px solid #333;
+  border-radius: 20px 20px 0px 0px;
+  text-align: center;
+  height: fit-content;
+}
+
+.product img {
+  width: 100%;
+  max-width: 100%;
+}
